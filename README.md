@@ -1,6 +1,6 @@
 # pop-back-stack-issue
 
-If `popBackStack()` function of nav-controller is used to pop last screen on user action. It can pop more than one screen when the button is clicked multiple times fast. 
+If `popBackStack()` function of nav-controller is used to pop last screen on user action, it can pop more than one screen when the button is clicked multiple times fast. 
 
 <p align="center">
   <img width="296" height="600"  src="https://github.com/raheemadamboev/pop-back-stack-issue/blob/main/banner_1.gif" />
