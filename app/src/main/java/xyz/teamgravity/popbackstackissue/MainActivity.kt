@@ -40,9 +40,7 @@ class MainActivity : ComponentActivity() {
 
                         composable("screen_b") {
                             ScreenB(
-                                onBack = {
-                                    controller.popBackStack()
-                                }
+                                onBack = controller::navigateUp
                             )
                         }
                     }
